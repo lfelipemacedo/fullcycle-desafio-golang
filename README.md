@@ -10,7 +10,7 @@ Para gerar a imagem local utilizar este comando
 
 Logo após executar o comando
 
-`docker run -it --rm golang desafio-go`
+`docker run -it --rm --name golang desafio-go`
 
 ## Docker Hub
 
